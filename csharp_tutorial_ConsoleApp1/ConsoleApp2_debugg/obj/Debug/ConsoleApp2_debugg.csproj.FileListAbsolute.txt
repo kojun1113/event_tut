@@ -1,0 +1,7 @@
+C:\Users\정준수\Desktop\csharp_tutorial_ConsoleApp1\ConsoleApp2_debugg\bin\Debug\ConsoleApp2_debugg.exe.config
+C:\Users\정준수\Desktop\csharp_tutorial_ConsoleApp1\ConsoleApp2_debugg\bin\Debug\ConsoleApp2_debugg.exe
+C:\Users\정준수\Desktop\csharp_tutorial_ConsoleApp1\ConsoleApp2_debugg\bin\Debug\ConsoleApp2_debugg.pdb
+C:\Users\정준수\Desktop\csharp_tutorial_ConsoleApp1\ConsoleApp2_debugg\obj\Debug\ConsoleApp2_debugg.csproj.CoreCompileInputs.cache
+C:\Users\정준수\Desktop\csharp_tutorial_ConsoleApp1\ConsoleApp2_debugg\obj\Debug\ConsoleApp2_debugg.exe
+C:\Users\정준수\Desktop\csharp_tutorial_ConsoleApp1\ConsoleApp2_debugg\obj\Debug\ConsoleApp2_debugg.pdb
+C:\Users\정준수\Desktop\csharp_tutorial_ConsoleApp1\ConsoleApp2_debugg\obj\Debug\ConsoleApp2_debugg.csprojAssemblyReference.cache
